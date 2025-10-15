@@ -97,18 +97,25 @@ Cada repositório possui seu próprio `README.md` com instruções de instalaç�
 Quer contribuir com o projeto?
 
 1. Faça um **fork** do repositório.  
-2. Crie uma nova **branch**:  
-   git checkout -b feature/nova-funcionalidade
+2. Crie uma nova **branch**:
 
-3. Faça o **commit** das suas alterações:
-    
+   ```bash
+   git checkout -b feature/nova-funcionalidade
+   ```
+
+4. Faça o **commit** das suas alterações:
+
+    ```bash
     git commit -m "Adiciona nova funcionalidade"
+    ```
     
-4. Envie para o repositório remoto:
-    
+5. Envie para o repositório remoto:
+
+    ```bash
     git push origin feature/nova-funcionalidade
+    ```
     
-5. Abra um **Pull Request** para revisão.
+6. Abra um **Pull Request** para revisão.
     
 
 * * *
