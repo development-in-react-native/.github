@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Equilíbrio – App da Academia Tapera
 
-![Academia Equilíbrio](https://instagram.ffln13-1.fna.fbcdn.net/v/t51.2885-19/499477605_18350324614152802_6669493657866682127_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjQuYzIifQ&_nc_ht=instagram.ffln13-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QHFdefDlWNaZaLJf4Xqc_pD06bjueuMIZyXSvcBMCLHLaLEMIwz5JXv1i45eudncFc&_nc_ohc=zwfsHEw1sukQ7kNvwHvKrz7&_nc_gid=NGxfN67HtsGOiaCN2b7WyA&edm=APoiHPcBAAAA&ccb=7-5&oh=00_Afc9oGQ92TUUB1Fm4qcD0qNuKQXYr0Wh9KtPl8Sv-shXqg&oe=68F5839E&_nc_sid=22de04)
+<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/b8c494b0-5b58-4f8e-bb67-5f57ecf6cdc5" />
 
 ## 🧭 Visão Geral
 
