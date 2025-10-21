@@ -1,6 +1,6 @@
-# 🏋️‍♂️ Equilíbrio – App da Academia Tapera
+<img width="1536" height="1024" alt="ChatGPT Image 20 de out  de 2025, 21_33_27" src="https://github.com/user-attachments/assets/9da5882d-fd50-4f28-8924-b052b424ee62" />
 
-<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/b8c494b0-5b58-4f8e-bb67-5f57ecf6cdc5" />
+# 🏋️‍♂️ Equilíbrio – App da Academia Tapera
 
 ## 🧭 Visão Geral
 
